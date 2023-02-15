@@ -1,0 +1,342 @@
+2023-02-06 18:02:718 INFO  Utils :112 - [TestNG] Running:
+  C:\HomeWork\nopcommerceweek13\src\test\java\resources\runners\testng.xml
+
+2023-02-06 18:02:102 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 18:02:146 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 18:02:793 INFO  HomePage :72 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (57390403ba99ac106d1b5ec086c689f4)] -> link text: Log in]
+2023-02-06 18:02:893 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 18:02:925 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 18:02:808 INFO  HomePage :72 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (e9b0d778c2135d5029c3b334222dd89a)] -> link text: Log in]
+2023-02-06 18:02:865 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 18:02:882 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 18:02:484 INFO  HomePage :72 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (0806d46f53d0d05d79f82ebd9b49ce94)] -> link text: Log in]
+2023-02-06 18:02:327 INFO  HomePage :140 - getting text from : Proxy element for: DefaultElementLocator 'By.linkText: Log out'
+2023-02-06 18:02:586 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 18:02:601 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 18:02:49 INFO  HomePage :72 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (218ef576aaa539fa3a97a80595a765b9)] -> link text: Log in]
+2023-02-06 18:02:87 INFO  LoginPage :44 - getting text from : [[ChromeDriver: chrome on WINDOWS (218ef576aaa539fa3a97a80595a765b9)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-02-06 18:02:157 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 18:02:183 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 18:02:440 INFO  Utils :112 - [TestNG] Running:
+  C:\HomeWork\nopcommerceweek13\src\test\java\resources\runners\testng.xml
+
+2023-02-06 18:02:576 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 18:02:639 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 18:02:336 INFO  HomePage :75 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (70d9abcd6ca36c22aaa7dd031785cddf)] -> link text: Log in]
+2023-02-06 18:02:695 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 18:02:726 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 18:02:452 INFO  HomePage :75 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (4e8dc846f48a3b78a30a02820e5ccefc)] -> link text: Log in]
+2023-02-06 18:02:108 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 18:02:125 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 18:02:743 INFO  HomePage :75 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (ed65b722e7fa4084f631d9d6c434b87f)] -> link text: Log in]
+2023-02-06 18:02:828 INFO  HomePage :143 - getting text from : [[ChromeDriver: chrome on WINDOWS (ed65b722e7fa4084f631d9d6c434b87f)] -> xpath: //a[contains(text(),'Log out')]]
+2023-02-06 18:02:724 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 18:02:735 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 18:02:899 INFO  HomePage :75 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (7d07aa6711ce4da9ac142de442f0ae9b)] -> link text: Log in]
+2023-02-06 18:02:946 INFO  LoginPage :44 - getting text from : [[ChromeDriver: chrome on WINDOWS (7d07aa6711ce4da9ac142de442f0ae9b)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-02-06 18:02:84 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 18:02:113 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 18:02:958 INFO  HomePage :80 - click on register link :[[ChromeDriver: chrome on WINDOWS (ca97aa5135aea5e08102035e8232115c)] -> link text: Register]
+2023-02-06 18:02:148 INFO  HomePage :134 - Click on register button
+2023-02-06 18:02:188 INFO  HomePage :138 - Getting error from [[ChromeDriver: chrome on WINDOWS (ca97aa5135aea5e08102035e8232115c)] -> xpath: //span[contains(text(),'First name is required.')]]
+2023-02-06 18:02:284 INFO  HomePage :143 - Getting error from [[ChromeDriver: chrome on WINDOWS (ca97aa5135aea5e08102035e8232115c)] -> xpath: //span[contains(text(),'Last name is required.')]]
+2023-02-06 18:02:380 INFO  HomePage :148 - Getting error from [[ChromeDriver: chrome on WINDOWS (ca97aa5135aea5e08102035e8232115c)] -> xpath: //span[contains(text(),'Email is required.')]]
+2023-02-06 18:02:468 INFO  HomePage :153 - Getting error from [[ChromeDriver: chrome on WINDOWS (ca97aa5135aea5e08102035e8232115c)] -> xpath: //div[@class='inputs']//span[@id='Password-error']]
+2023-02-06 18:02:547 INFO  HomePage :158 - Getting error from [[ChromeDriver: chrome on WINDOWS (ca97aa5135aea5e08102035e8232115c)] -> xpath: //span[@data-valmsg-for='ConfirmPassword']/span[contains(text(),'Password is required.')]]
+2023-02-06 18:02:441 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 18:02:472 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 18:02:311 INFO  HomePage :80 - click on register link :[[ChromeDriver: chrome on WINDOWS (1b17af9a16b18694af675c248d649c02)] -> link text: Register]
+2023-02-06 18:02:489 INFO  HomePage :89 - Click on female radio button[[ChromeDriver: chrome on WINDOWS (1b17af9a16b18694af675c248d649c02)] -> xpath: //div[@class='gender']//input[@id='gender-female']]
+2023-02-06 18:02:698 INFO  HomePage :94 - Enter your firstname[[ChromeDriver: chrome on WINDOWS (1b17af9a16b18694af675c248d649c02)] -> id: FirstName]
+2023-02-06 18:02:919 INFO  HomePage :99 - Enter your lastname[[ChromeDriver: chrome on WINDOWS (1b17af9a16b18694af675c248d649c02)] -> id: LastName]
+2023-02-06 18:02:115 INFO  HomePage :104 - select your day of birth[[ChromeDriver: chrome on WINDOWS (1b17af9a16b18694af675c248d649c02)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthDay']]
+2023-02-06 18:02:326 INFO  HomePage :109 - Select the month which you was born[[ChromeDriver: chrome on WINDOWS (1b17af9a16b18694af675c248d649c02)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthMonth']]
+2023-02-06 18:02:539 INFO  HomePage :114 - Select the year you was born in[[ChromeDriver: chrome on WINDOWS (1b17af9a16b18694af675c248d649c02)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthYear']]
+2023-02-06 18:02:808 INFO  HomePage :119 - Enter your email[[ChromeDriver: chrome on WINDOWS (1b17af9a16b18694af675c248d649c02)] -> id: Email]
+2023-02-06 18:02:62 INFO  HomePage :124 - Enter your password[[ChromeDriver: chrome on WINDOWS (1b17af9a16b18694af675c248d649c02)] -> name: Password]
+2023-02-06 18:02:310 INFO  HomePage :129 - Confirm your password[[ChromeDriver: chrome on WINDOWS (1b17af9a16b18694af675c248d649c02)] -> name: ConfirmPassword]
+2023-02-06 18:02:182 INFO  HomePage :134 - Click on register button
+2023-02-06 18:02:230 INFO  HomePage :164 - Getting link from [[ChromeDriver: chrome on WINDOWS (1b17af9a16b18694af675c248d649c02)] -> xpath: //div[@class='page-body']//div[contains(text(),'Your registration completed')]]
+2023-02-06 18:02:180 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 18:02:208 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 18:02:537 INFO  HomePage :80 - click on register link :[[ChromeDriver: chrome on WINDOWS (7d0990ff70fbb448f5b47f17cc6f320b)] -> link text: Register]
+2023-02-06 18:02:563 INFO  HomePage :78 - Click on build your computer link[[ChromeDriver: chrome on WINDOWS (7d0990ff70fbb448f5b47f17cc6f320b)] -> xpath: //h1[contains(text(),'Register')]]
+2023-02-06 18:02:420 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 18:02:442 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 18:02:568 INFO  HomePage :38 - Click on computer tab[[ChromeDriver: chrome on WINDOWS (96cca5824c3fe0191f535b90e07868f5)] -> xpath: //ul[@class='top-menu notmobile']/li//a[@href='/computers']]
+2023-02-06 18:02:357 INFO  HomePage :48 - Click on desktop linkProxy element for: DefaultElementLocator 'By.xpath: //h2[@class='title']//a[@href='/desktops']'
+2023-02-06 18:02:694 INFO  HomePage :51 - Click on build your computer linkProxy element for: DefaultElementLocator 'By.xpath: //div[@class='products-container']/div[2]/div/div/div[1]/div/div[2]/h2/a'
+2023-02-06 18:02:54 INFO  HomePage :56 - Click on the processor from drop down[[ChromeDriver: chrome on WINDOWS (96cca5824c3fe0191f535b90e07868f5)] -> xpath: //select[@id='product_attribute_1']]
+2023-02-06 18:02:264 INFO  HomePage :61 - Select ram from drop down[[ChromeDriver: chrome on WINDOWS (96cca5824c3fe0191f535b90e07868f5)] -> xpath: //select[@id='product_attribute_2']]
+2023-02-06 18:02:408 INFO  HomePage :66 - click on HDD radio button[[ChromeDriver: chrome on WINDOWS (96cca5824c3fe0191f535b90e07868f5)] -> xpath: //input[@id='product_attribute_3_6']]
+2023-02-06 18:02:552 INFO  HomePage :71 - Click on OS software which you would like [[ChromeDriver: chrome on WINDOWS (96cca5824c3fe0191f535b90e07868f5)] -> xpath: //input[@id='product_attribute_4_8']]
+2023-02-06 18:02:688 INFO  HomePage :76 - tick on software check box on which you would like [[ChromeDriver: chrome on WINDOWS (96cca5824c3fe0191f535b90e07868f5)] -> xpath: //input[@id='product_attribute_5_10']]
+2023-02-06 18:02:808 INFO  HomePage :82 - click on add to card button[[ChromeDriver: chrome on WINDOWS (96cca5824c3fe0191f535b90e07868f5)] -> xpath: //button[@id='add-to-cart-button-1']]
+2023-02-06 18:02:48 INFO  HomePage :86 - Getting link from [[ChromeDriver: chrome on WINDOWS (96cca5824c3fe0191f535b90e07868f5)] -> xpath: //div[@class='bar-notification success']/p]
+2023-02-06 18:02:375 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 18:02:391 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 18:02:864 INFO  HomePage :38 - Click on computer tab[[ChromeDriver: chrome on WINDOWS (af5a78b9bb35ddc48c1e908f0950bac7)] -> xpath: //ul[@class='top-menu notmobile']/li//a[@href='/computers']]
+2023-02-06 18:02:383 INFO  HomePage :48 - Click on desktop linkProxy element for: DefaultElementLocator 'By.xpath: //h2[@class='title']//a[@href='/desktops']'
+2023-02-06 18:02:669 INFO  HomePage :51 - Click on build your computer linkProxy element for: DefaultElementLocator 'By.xpath: //div[@class='products-container']/div[2]/div/div/div[1]/div/div[2]/h2/a'
+2023-02-06 18:02:781 INFO  HomePage :56 - Click on the processor from drop down[[ChromeDriver: chrome on WINDOWS (af5a78b9bb35ddc48c1e908f0950bac7)] -> xpath: //select[@id='product_attribute_1']]
+2023-02-06 18:02:941 INFO  HomePage :61 - Select ram from drop down[[ChromeDriver: chrome on WINDOWS (af5a78b9bb35ddc48c1e908f0950bac7)] -> xpath: //select[@id='product_attribute_2']]
+2023-02-06 18:02:45 INFO  HomePage :66 - click on HDD radio button[[ChromeDriver: chrome on WINDOWS (af5a78b9bb35ddc48c1e908f0950bac7)] -> xpath: //input[@id='product_attribute_3_6']]
+2023-02-06 18:02:141 INFO  HomePage :71 - Click on OS software which you would like [[ChromeDriver: chrome on WINDOWS (af5a78b9bb35ddc48c1e908f0950bac7)] -> xpath: //input[@id='product_attribute_4_8']]
+2023-02-06 18:02:252 INFO  HomePage :76 - tick on software check box on which you would like [[ChromeDriver: chrome on WINDOWS (af5a78b9bb35ddc48c1e908f0950bac7)] -> xpath: //input[@id='product_attribute_5_10']]
+2023-02-06 18:02:365 INFO  HomePage :82 - click on add to card button[[ChromeDriver: chrome on WINDOWS (af5a78b9bb35ddc48c1e908f0950bac7)] -> xpath: //button[@id='add-to-cart-button-1']]
+2023-02-06 18:02:229 INFO  HomePage :86 - Getting link from [[ChromeDriver: chrome on WINDOWS (af5a78b9bb35ddc48c1e908f0950bac7)] -> xpath: //div[@class='bar-notification success']/p]
+2023-02-06 18:02:409 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 18:02:424 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 18:02:798 INFO  HomePage :38 - Click on computer tab[[ChromeDriver: chrome on WINDOWS (734ff6d2e9a51b73336c6237460175f3)] -> xpath: //ul[@class='top-menu notmobile']/li//a[@href='/computers']]
+2023-02-06 18:02:350 INFO  HomePage :48 - Click on desktop linkProxy element for: DefaultElementLocator 'By.xpath: //h2[@class='title']//a[@href='/desktops']'
+2023-02-06 18:02:647 INFO  HomePage :51 - Click on build your computer linkProxy element for: DefaultElementLocator 'By.xpath: //div[@class='products-container']/div[2]/div/div/div[1]/div/div[2]/h2/a'
+2023-02-06 18:02:738 INFO  HomePage :56 - Click on the processor from drop down[[ChromeDriver: chrome on WINDOWS (734ff6d2e9a51b73336c6237460175f3)] -> xpath: //select[@id='product_attribute_1']]
+2023-02-06 18:02:882 INFO  HomePage :61 - Select ram from drop down[[ChromeDriver: chrome on WINDOWS (734ff6d2e9a51b73336c6237460175f3)] -> xpath: //select[@id='product_attribute_2']]
+2023-02-06 18:02:970 INFO  HomePage :66 - click on HDD radio button[[ChromeDriver: chrome on WINDOWS (734ff6d2e9a51b73336c6237460175f3)] -> xpath: //input[@id='product_attribute_3_6']]
+2023-02-06 18:02:74 INFO  HomePage :71 - Click on OS software which you would like [[ChromeDriver: chrome on WINDOWS (734ff6d2e9a51b73336c6237460175f3)] -> xpath: //input[@id='product_attribute_4_8']]
+2023-02-06 18:02:154 INFO  HomePage :76 - tick on software check box on which you would like [[ChromeDriver: chrome on WINDOWS (734ff6d2e9a51b73336c6237460175f3)] -> xpath: //input[@id='product_attribute_5_10']]
+2023-02-06 18:02:225 INFO  HomePage :82 - click on add to card button[[ChromeDriver: chrome on WINDOWS (734ff6d2e9a51b73336c6237460175f3)] -> xpath: //button[@id='add-to-cart-button-1']]
+2023-02-06 18:02:513 INFO  HomePage :86 - Getting link from [[ChromeDriver: chrome on WINDOWS (734ff6d2e9a51b73336c6237460175f3)] -> xpath: //div[@class='bar-notification success']/p]
+2023-02-06 18:02:327 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 18:02:343 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 18:02:166 INFO  HomePage :38 - Click on computer tab[[ChromeDriver: chrome on WINDOWS (8eb7b5ba3646cf777fc8d4506bcef5a3)] -> xpath: //ul[@class='top-menu notmobile']/li//a[@href='/computers']]
+2023-02-06 18:02:190 INFO  HomePage :42 - getting text from[[ChromeDriver: chrome on WINDOWS (8eb7b5ba3646cf777fc8d4506bcef5a3)] -> xpath: //div[@class='center-2']//h1[contains(text(),'Computers')]]
+2023-02-06 18:02:286 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 18:02:301 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 18:02:135 INFO  HomePage :38 - Click on computer tab[[ChromeDriver: chrome on WINDOWS (bace9cb1b9044a64ac5cb2342002be74)] -> xpath: //ul[@class='top-menu notmobile']/li//a[@href='/computers']]
+2023-02-06 18:02:691 INFO  HomePage :48 - Click on desktop linkProxy element for: DefaultElementLocator 'By.xpath: //h2[@class='title']//a[@href='/desktops']'
+2023-02-06 18:02:832 INFO  HomePage :52 - getting text from [[ChromeDriver: chrome on WINDOWS (bace9cb1b9044a64ac5cb2342002be74)] -> xpath: //div[@class='center-2']//h1[contains(text(),'Desktops')]]
+2023-02-06 18:02:920 INFO  Utils :112 - [TestNG] Running:
+  C:\Users\kuldi\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+2023-02-06 18:02:298 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 18:02:341 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 18:02:223 INFO  HomePage :75 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (2196a751c460397b528e83c3999ee028)] -> link text: Log in]
+2023-02-06 18:02:734 INFO  Utils :112 - [TestNG] Running:
+  C:\Users\kuldi\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+2023-02-06 18:02:817 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 18:02:860 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 18:02:890 INFO  HomePage :75 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (6c8fa0d85f93063222b2b6ead90828c6)] -> link text: Log in]
+2023-02-06 18:02:762 INFO  Utils :112 - [TestNG] Running:
+  C:\HomeWork\nopcommerceweek13\src\test\java\resources\runners\testng.xml
+
+2023-02-06 18:02:314 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 18:02:367 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 18:02:987 INFO  HomePage :75 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (13690f8d5c1395e33e0ddda91fa7a7de)] -> link text: Log in]
+2023-02-06 18:02:02 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 18:02:11 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 18:02:757 INFO  HomePage :75 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (35d27574f2f93893a564f2cab454be65)] -> link text: Log in]
+2023-02-06 18:02:866 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 18:02:876 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 18:02:484 INFO  HomePage :75 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (5f823f44dec9c55bfd087419ccfb7d50)] -> link text: Log in]
+2023-02-06 18:02:350 INFO  HomePage :143 - getting text from : Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Log out')]'
+2023-02-06 18:02:333 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 18:02:342 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 18:02:240 INFO  HomePage :75 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (921151f0c454bfae2eeabb497e43ae96)] -> link text: Log in]
+2023-02-06 18:02:105 INFO  Utils :112 - [TestNG] Running:
+  C:\Users\kuldi\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+2023-02-06 18:02:933 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 18:02:74 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 18:02:574 INFO  HomePage :75 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (a440284d91e764b6a6555784e0607a22)] -> link text: Log in]
+2023-02-06 18:02:958 INFO  Utils :112 - [TestNG] Running:
+  C:\Users\kuldi\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+2023-02-06 18:02:69 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 18:02:115 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 18:02:751 INFO  HomePage :75 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (5085d5aa79aac7a9268655d84acb3de6)] -> link text: Log in]
+2023-02-06 18:02:378 INFO  Utils :112 - [TestNG] Running:
+  C:\HomeWork\nopcommerceweek13\src\test\java\resources\runners\testng.xml
+
+2023-02-06 18:02:762 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 18:02:806 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 18:02:948 INFO  HomePage :75 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (fccc431dd91303d775e583439a1282a2)] -> link text: Log in]
+2023-02-06 18:02:396 INFO  HomePage :90 - Click on logoout linkProxy element for: DefaultElementLocator 'By.xpath: //a[@href='/logout']'
+2023-02-06 18:02:428 INFO  HomePage :148 - getting text from [[ChromeDriver: chrome on WINDOWS (fccc431dd91303d775e583439a1282a2)] -> xpath: //a[contains(text(),'Log in')]]
+2023-02-06 18:02:391 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 18:02:416 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 18:02:470 INFO  HomePage :75 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (d453d54625e5808c9aca2dc8b069e3da)] -> link text: Log in]
+2023-02-06 18:02:66 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 18:02:78 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 18:02:244 INFO  HomePage :75 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (a924a8478ca86c1348cda5f58c92fafe)] -> link text: Log in]
+2023-02-06 18:02:229 INFO  HomePage :143 - getting text from : [[ChromeDriver: chrome on WINDOWS (a924a8478ca86c1348cda5f58c92fafe)] -> xpath: //a[contains(text(),'Log out')]]
+2023-02-06 18:02:86 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 18:02:96 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 18:02:151 INFO  HomePage :75 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (478cfafd9faa2852f2233e21ccd0fc4f)] -> link text: Log in]
+2023-02-06 18:02:174 INFO  LoginPage :44 - getting text from : [[ChromeDriver: chrome on WINDOWS (478cfafd9faa2852f2233e21ccd0fc4f)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-02-06 18:02:924 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 18:02:930 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 18:02:723 INFO  HomePage :80 - click on register link :[[ChromeDriver: chrome on WINDOWS (100031b1105cf9abd25323a24f60a20d)] -> link text: Register]
+2023-02-06 18:02:844 INFO  HomePage :134 - Click on register button
+2023-02-06 18:02:868 INFO  HomePage :138 - Getting error from [[ChromeDriver: chrome on WINDOWS (100031b1105cf9abd25323a24f60a20d)] -> xpath: //span[contains(text(),'First name is required.')]]
+2023-02-06 18:02:924 INFO  HomePage :143 - Getting error from [[ChromeDriver: chrome on WINDOWS (100031b1105cf9abd25323a24f60a20d)] -> xpath: //span[contains(text(),'Last name is required.')]]
+2023-02-06 18:02:979 INFO  HomePage :148 - Getting error from [[ChromeDriver: chrome on WINDOWS (100031b1105cf9abd25323a24f60a20d)] -> xpath: //span[contains(text(),'Email is required.')]]
+2023-02-06 18:02:36 INFO  HomePage :153 - Getting error from [[ChromeDriver: chrome on WINDOWS (100031b1105cf9abd25323a24f60a20d)] -> xpath: //div[@class='inputs']//span[@id='Password-error']]
+2023-02-06 18:02:96 INFO  HomePage :158 - Getting error from [[ChromeDriver: chrome on WINDOWS (100031b1105cf9abd25323a24f60a20d)] -> xpath: //span[@data-valmsg-for='ConfirmPassword']/span[contains(text(),'Password is required.')]]
+2023-02-06 18:02:923 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 18:02:936 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 18:02:220 INFO  HomePage :80 - click on register link :[[ChromeDriver: chrome on WINDOWS (836ff1dcd41705b07929954ab4581ee1)] -> link text: Register]
+2023-02-06 18:02:336 INFO  HomePage :89 - Click on female radio button[[ChromeDriver: chrome on WINDOWS (836ff1dcd41705b07929954ab4581ee1)] -> xpath: //div[@class='gender']//input[@id='gender-female']]
+2023-02-06 18:02:493 INFO  HomePage :94 - Enter your firstname[[ChromeDriver: chrome on WINDOWS (836ff1dcd41705b07929954ab4581ee1)] -> id: FirstName]
+2023-02-06 18:02:624 INFO  HomePage :99 - Enter your lastname[[ChromeDriver: chrome on WINDOWS (836ff1dcd41705b07929954ab4581ee1)] -> id: LastName]
+2023-02-06 18:02:747 INFO  HomePage :104 - select your day of birth[[ChromeDriver: chrome on WINDOWS (836ff1dcd41705b07929954ab4581ee1)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthDay']]
+2023-02-06 18:02:859 INFO  HomePage :109 - Select the month which you was born[[ChromeDriver: chrome on WINDOWS (836ff1dcd41705b07929954ab4581ee1)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthMonth']]
+2023-02-06 18:02:980 INFO  HomePage :114 - Select the year you was born in[[ChromeDriver: chrome on WINDOWS (836ff1dcd41705b07929954ab4581ee1)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthYear']]
+2023-02-06 18:02:125 INFO  HomePage :119 - Enter your email[[ChromeDriver: chrome on WINDOWS (836ff1dcd41705b07929954ab4581ee1)] -> id: Email]
+2023-02-06 18:02:266 INFO  HomePage :124 - Enter your password[[ChromeDriver: chrome on WINDOWS (836ff1dcd41705b07929954ab4581ee1)] -> name: Password]
+2023-02-06 18:02:405 INFO  HomePage :129 - Confirm your password[[ChromeDriver: chrome on WINDOWS (836ff1dcd41705b07929954ab4581ee1)] -> name: ConfirmPassword]
+2023-02-06 18:02:564 INFO  HomePage :134 - Click on register button
+2023-02-06 18:02:600 INFO  HomePage :164 - Getting link from [[ChromeDriver: chrome on WINDOWS (836ff1dcd41705b07929954ab4581ee1)] -> xpath: //div[@class='page-body']//div[contains(text(),'Your registration completed')]]
+2023-02-06 18:02:479 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 18:02:491 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 18:02:781 INFO  HomePage :80 - click on register link :[[ChromeDriver: chrome on WINDOWS (e05b3f462f47df53c0be925a39d2a4ee)] -> link text: Register]
+2023-02-06 18:02:806 INFO  HomePage :78 - Click on build your computer link[[ChromeDriver: chrome on WINDOWS (e05b3f462f47df53c0be925a39d2a4ee)] -> xpath: //h1[contains(text(),'Register')]]
+2023-02-06 18:02:666 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 18:02:676 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 18:02:610 INFO  HomePage :38 - Click on computer tab[[ChromeDriver: chrome on WINDOWS (0c68d8df36bca6a2157160cf70b1b698)] -> xpath: //ul[@class='top-menu notmobile']/li//a[@href='/computers']]
+2023-02-06 18:02:166 INFO  HomePage :48 - Click on desktop linkProxy element for: DefaultElementLocator 'By.xpath: //h2[@class='title']//a[@href='/desktops']'
+2023-02-06 18:02:109 INFO  HomePage :51 - Click on build your computer linkProxy element for: DefaultElementLocator 'By.xpath: //div[@class='products-container']/div[2]/div/div/div[1]/div/div[2]/h2/a'
+2023-02-06 18:02:214 INFO  HomePage :56 - Click on the processor from drop down[[ChromeDriver: chrome on WINDOWS (0c68d8df36bca6a2157160cf70b1b698)] -> xpath: //select[@id='product_attribute_1']]
+2023-02-06 18:02:303 INFO  HomePage :61 - Select ram from drop down[[ChromeDriver: chrome on WINDOWS (0c68d8df36bca6a2157160cf70b1b698)] -> xpath: //select[@id='product_attribute_2']]
+2023-02-06 18:02:373 INFO  HomePage :66 - click on HDD radio button[[ChromeDriver: chrome on WINDOWS (0c68d8df36bca6a2157160cf70b1b698)] -> xpath: //input[@id='product_attribute_3_6']]
+2023-02-06 18:02:431 INFO  HomePage :71 - Click on OS software which you would like [[ChromeDriver: chrome on WINDOWS (0c68d8df36bca6a2157160cf70b1b698)] -> xpath: //input[@id='product_attribute_4_8']]
+2023-02-06 18:02:496 INFO  HomePage :76 - tick on software check box on which you would like [[ChromeDriver: chrome on WINDOWS (0c68d8df36bca6a2157160cf70b1b698)] -> xpath: //input[@id='product_attribute_5_10']]
+2023-02-06 18:02:557 INFO  HomePage :82 - click on add to card button[[ChromeDriver: chrome on WINDOWS (0c68d8df36bca6a2157160cf70b1b698)] -> xpath: //button[@id='add-to-cart-button-1']]
+2023-02-06 18:02:263 INFO  HomePage :86 - Getting link from [[ChromeDriver: chrome on WINDOWS (0c68d8df36bca6a2157160cf70b1b698)] -> xpath: //div[@class='bar-notification success']/p]
+2023-02-06 18:02:66 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 18:02:68 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 19:02:805 INFO  HomePage :38 - Click on computer tab[[ChromeDriver: chrome on WINDOWS (61fcbde391953cbd5ca1bcfbe918489c)] -> xpath: //ul[@class='top-menu notmobile']/li//a[@href='/computers']]
+2023-02-06 19:02:396 INFO  HomePage :48 - Click on desktop linkProxy element for: DefaultElementLocator 'By.xpath: //h2[@class='title']//a[@href='/desktops']'
+2023-02-06 19:02:521 INFO  HomePage :51 - Click on build your computer linkProxy element for: DefaultElementLocator 'By.xpath: //div[@class='products-container']/div[2]/div/div/div[1]/div/div[2]/h2/a'
+2023-02-06 19:02:592 INFO  HomePage :56 - Click on the processor from drop down[[ChromeDriver: chrome on WINDOWS (61fcbde391953cbd5ca1bcfbe918489c)] -> xpath: //select[@id='product_attribute_1']]
+2023-02-06 19:02:688 INFO  HomePage :61 - Select ram from drop down[[ChromeDriver: chrome on WINDOWS (61fcbde391953cbd5ca1bcfbe918489c)] -> xpath: //select[@id='product_attribute_2']]
+2023-02-06 19:02:753 INFO  HomePage :66 - click on HDD radio button[[ChromeDriver: chrome on WINDOWS (61fcbde391953cbd5ca1bcfbe918489c)] -> xpath: //input[@id='product_attribute_3_6']]
+2023-02-06 19:02:815 INFO  HomePage :71 - Click on OS software which you would like [[ChromeDriver: chrome on WINDOWS (61fcbde391953cbd5ca1bcfbe918489c)] -> xpath: //input[@id='product_attribute_4_8']]
+2023-02-06 19:02:871 INFO  HomePage :76 - tick on software check box on which you would like [[ChromeDriver: chrome on WINDOWS (61fcbde391953cbd5ca1bcfbe918489c)] -> xpath: //input[@id='product_attribute_5_10']]
+2023-02-06 19:02:933 INFO  HomePage :82 - click on add to card button[[ChromeDriver: chrome on WINDOWS (61fcbde391953cbd5ca1bcfbe918489c)] -> xpath: //button[@id='add-to-cart-button-1']]
+2023-02-06 19:02:310 INFO  HomePage :86 - Getting link from [[ChromeDriver: chrome on WINDOWS (61fcbde391953cbd5ca1bcfbe918489c)] -> xpath: //div[@class='bar-notification success']/p]
+2023-02-06 19:02:116 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 19:02:122 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 19:02:702 INFO  HomePage :38 - Click on computer tab[[ChromeDriver: chrome on WINDOWS (d2c4eec5a67849f6bbc965a27a0bd834)] -> xpath: //ul[@class='top-menu notmobile']/li//a[@href='/computers']]
+2023-02-06 19:02:286 INFO  HomePage :48 - Click on desktop linkProxy element for: DefaultElementLocator 'By.xpath: //h2[@class='title']//a[@href='/desktops']'
+2023-02-06 19:02:381 INFO  HomePage :51 - Click on build your computer linkProxy element for: DefaultElementLocator 'By.xpath: //div[@class='products-container']/div[2]/div/div/div[1]/div/div[2]/h2/a'
+2023-02-06 19:02:446 INFO  HomePage :56 - Click on the processor from drop down[[ChromeDriver: chrome on WINDOWS (d2c4eec5a67849f6bbc965a27a0bd834)] -> xpath: //select[@id='product_attribute_1']]
+2023-02-06 19:02:542 INFO  HomePage :61 - Select ram from drop down[[ChromeDriver: chrome on WINDOWS (d2c4eec5a67849f6bbc965a27a0bd834)] -> xpath: //select[@id='product_attribute_2']]
+2023-02-06 19:02:609 INFO  HomePage :66 - click on HDD radio button[[ChromeDriver: chrome on WINDOWS (d2c4eec5a67849f6bbc965a27a0bd834)] -> xpath: //input[@id='product_attribute_3_6']]
+2023-02-06 19:02:673 INFO  HomePage :71 - Click on OS software which you would like [[ChromeDriver: chrome on WINDOWS (d2c4eec5a67849f6bbc965a27a0bd834)] -> xpath: //input[@id='product_attribute_4_8']]
+2023-02-06 19:02:742 INFO  HomePage :76 - tick on software check box on which you would like [[ChromeDriver: chrome on WINDOWS (d2c4eec5a67849f6bbc965a27a0bd834)] -> xpath: //input[@id='product_attribute_5_10']]
+2023-02-06 19:02:804 INFO  HomePage :82 - click on add to card button[[ChromeDriver: chrome on WINDOWS (d2c4eec5a67849f6bbc965a27a0bd834)] -> xpath: //button[@id='add-to-cart-button-1']]
+2023-02-06 19:02:497 INFO  HomePage :86 - Getting link from [[ChromeDriver: chrome on WINDOWS (d2c4eec5a67849f6bbc965a27a0bd834)] -> xpath: //div[@class='bar-notification success']/p]
+2023-02-06 19:02:312 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 19:02:316 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 19:02:760 INFO  HomePage :38 - Click on computer tab[[ChromeDriver: chrome on WINDOWS (66960bba1e4fa057d9d5760abad3d97a)] -> xpath: //ul[@class='top-menu notmobile']/li//a[@href='/computers']]
+2023-02-06 19:02:772 INFO  HomePage :42 - getting text from[[ChromeDriver: chrome on WINDOWS (66960bba1e4fa057d9d5760abad3d97a)] -> xpath: //div[@class='center-2']//h1[contains(text(),'Computers')]]
+2023-02-06 19:02:483 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 19:02:491 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 19:02:688 INFO  HomePage :38 - Click on computer tab[[ChromeDriver: chrome on WINDOWS (e468e21716c48efcecac913ba14414dd)] -> xpath: //ul[@class='top-menu notmobile']/li//a[@href='/computers']]
+2023-02-06 19:02:266 INFO  HomePage :48 - Click on desktop linkProxy element for: DefaultElementLocator 'By.xpath: //h2[@class='title']//a[@href='/desktops']'
+2023-02-06 19:02:286 INFO  HomePage :52 - getting text from [[ChromeDriver: chrome on WINDOWS (e468e21716c48efcecac913ba14414dd)] -> xpath: //div[@class='center-2']//h1[contains(text(),'Desktops')]]
+2023-02-06 19:02:980 INFO  Utils :112 - [TestNG] Running:
+  C:\HomeWork\nopcommerceweek13\src\test\java\resources\runners\testng.xml
+
+2023-02-06 19:02:686 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 19:02:731 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 19:02:444 INFO  HomePage :75 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (460a0f1668755eba2b8e11e4a56b7621)] -> link text: Log in]
+2023-02-06 19:02:572 INFO  HomePage :90 - Click on logoout linkProxy element for: DefaultElementLocator 'By.xpath: //a[@href='/logout']'
+2023-02-06 19:02:597 INFO  HomePage :148 - getting text from [[ChromeDriver: chrome on WINDOWS (460a0f1668755eba2b8e11e4a56b7621)] -> xpath: //a[contains(text(),'Log in')]]
+2023-02-06 19:02:672 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 19:02:687 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 19:02:906 INFO  HomePage :75 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (23bb3832a73b5a1ad671fe064b4030f5)] -> link text: Log in]
+2023-02-06 19:02:677 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 19:02:693 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 19:02:09 INFO  HomePage :75 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (e88a5392f9cb89f2695d2c678e115968)] -> link text: Log in]
+2023-02-06 19:02:162 INFO  HomePage :143 - getting text from : [[ChromeDriver: chrome on WINDOWS (e88a5392f9cb89f2695d2c678e115968)] -> xpath: //a[contains(text(),'Log out')]]
+2023-02-06 19:02:961 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 19:02:970 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 19:02:943 INFO  HomePage :75 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (aece6bd1ee978fc2de3ddd3391705fcb)] -> link text: Log in]
+2023-02-06 19:02:969 INFO  LoginPage :44 - getting text from : [[ChromeDriver: chrome on WINDOWS (aece6bd1ee978fc2de3ddd3391705fcb)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-02-06 19:02:707 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 19:02:715 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 19:02:95 INFO  HomePage :80 - click on register link :[[ChromeDriver: chrome on WINDOWS (192b6ac455ad869f98f2d215f63e2947)] -> link text: Register]
+2023-02-06 19:02:167 INFO  HomePage :134 - Click on register button
+2023-02-06 19:02:184 INFO  HomePage :138 - Getting error from [[ChromeDriver: chrome on WINDOWS (192b6ac455ad869f98f2d215f63e2947)] -> xpath: //span[contains(text(),'First name is required.')]]
+2023-02-06 19:02:217 INFO  HomePage :143 - Getting error from [[ChromeDriver: chrome on WINDOWS (192b6ac455ad869f98f2d215f63e2947)] -> xpath: //span[contains(text(),'Last name is required.')]]
+2023-02-06 19:02:248 INFO  HomePage :148 - Getting error from [[ChromeDriver: chrome on WINDOWS (192b6ac455ad869f98f2d215f63e2947)] -> xpath: //span[contains(text(),'Email is required.')]]
+2023-02-06 19:02:277 INFO  HomePage :153 - Getting error from [[ChromeDriver: chrome on WINDOWS (192b6ac455ad869f98f2d215f63e2947)] -> xpath: //div[@class='inputs']//span[@id='Password-error']]
+2023-02-06 19:02:313 INFO  HomePage :158 - Getting error from [[ChromeDriver: chrome on WINDOWS (192b6ac455ad869f98f2d215f63e2947)] -> xpath: //span[@data-valmsg-for='ConfirmPassword']/span[contains(text(),'Password is required.')]]
+2023-02-06 19:02:121 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 19:02:128 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 19:02:657 INFO  HomePage :80 - click on register link :[[ChromeDriver: chrome on WINDOWS (2b46d47e66cec54cc162bab39af6b763)] -> link text: Register]
+2023-02-06 19:02:726 INFO  HomePage :89 - Click on female radio button[[ChromeDriver: chrome on WINDOWS (2b46d47e66cec54cc162bab39af6b763)] -> xpath: //div[@class='gender']//input[@id='gender-female']]
+2023-02-06 19:02:803 INFO  HomePage :94 - Enter your firstname[[ChromeDriver: chrome on WINDOWS (2b46d47e66cec54cc162bab39af6b763)] -> id: FirstName]
+2023-02-06 19:02:894 INFO  HomePage :99 - Enter your lastname[[ChromeDriver: chrome on WINDOWS (2b46d47e66cec54cc162bab39af6b763)] -> id: LastName]
+2023-02-06 19:02:970 INFO  HomePage :104 - select your day of birth[[ChromeDriver: chrome on WINDOWS (2b46d47e66cec54cc162bab39af6b763)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthDay']]
+2023-02-06 19:02:41 INFO  HomePage :109 - Select the month which you was born[[ChromeDriver: chrome on WINDOWS (2b46d47e66cec54cc162bab39af6b763)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthMonth']]
+2023-02-06 19:02:113 INFO  HomePage :114 - Select the year you was born in[[ChromeDriver: chrome on WINDOWS (2b46d47e66cec54cc162bab39af6b763)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthYear']]
+2023-02-06 19:02:201 INFO  HomePage :119 - Enter your email[[ChromeDriver: chrome on WINDOWS (2b46d47e66cec54cc162bab39af6b763)] -> id: Email]
+2023-02-06 19:02:291 INFO  HomePage :124 - Enter your password[[ChromeDriver: chrome on WINDOWS (2b46d47e66cec54cc162bab39af6b763)] -> name: Password]
+2023-02-06 19:02:373 INFO  HomePage :129 - Confirm your password[[ChromeDriver: chrome on WINDOWS (2b46d47e66cec54cc162bab39af6b763)] -> name: ConfirmPassword]
+2023-02-06 19:02:999 INFO  HomePage :134 - Click on register button
+2023-02-06 19:02:22 INFO  HomePage :164 - Getting link from [[ChromeDriver: chrome on WINDOWS (2b46d47e66cec54cc162bab39af6b763)] -> xpath: //div[@class='page-body']//div[contains(text(),'Your registration completed')]]
+2023-02-06 19:02:842 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 19:02:850 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 19:02:838 INFO  HomePage :80 - click on register link :[[ChromeDriver: chrome on WINDOWS (9274480bb0595da72e4d9ec690d39293)] -> link text: Register]
+2023-02-06 19:02:856 INFO  HomePage :78 - Click on build your computer link[[ChromeDriver: chrome on WINDOWS (9274480bb0595da72e4d9ec690d39293)] -> xpath: //h1[contains(text(),'Register')]]
+2023-02-06 19:02:620 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 19:02:626 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 19:02:689 INFO  HomePage :38 - Click on computer tab[[ChromeDriver: chrome on WINDOWS (9c464c45a28369fb2174739d3940858e)] -> xpath: //ul[@class='top-menu notmobile']/li//a[@href='/computers']]
+2023-02-06 19:02:308 INFO  HomePage :48 - Click on desktop linkProxy element for: DefaultElementLocator 'By.xpath: //h2[@class='title']//a[@href='/desktops']'
+2023-02-06 19:02:611 INFO  HomePage :51 - Click on build your computer linkProxy element for: DefaultElementLocator 'By.xpath: //div[@class='products-container']/div[2]/div/div/div[1]/div/div[2]/h2/a'
+2023-02-06 19:02:724 INFO  HomePage :56 - Click on the processor from drop down[[ChromeDriver: chrome on WINDOWS (9c464c45a28369fb2174739d3940858e)] -> xpath: //select[@id='product_attribute_1']]
+2023-02-06 19:02:823 INFO  HomePage :61 - Select ram from drop down[[ChromeDriver: chrome on WINDOWS (9c464c45a28369fb2174739d3940858e)] -> xpath: //select[@id='product_attribute_2']]
+2023-02-06 19:02:886 INFO  HomePage :66 - click on HDD radio button[[ChromeDriver: chrome on WINDOWS (9c464c45a28369fb2174739d3940858e)] -> xpath: //input[@id='product_attribute_3_6']]
+2023-02-06 19:02:946 INFO  HomePage :71 - Click on OS software which you would like [[ChromeDriver: chrome on WINDOWS (9c464c45a28369fb2174739d3940858e)] -> xpath: //input[@id='product_attribute_4_8']]
+2023-02-06 19:02:09 INFO  HomePage :76 - tick on software check box on which you would like [[ChromeDriver: chrome on WINDOWS (9c464c45a28369fb2174739d3940858e)] -> xpath: //input[@id='product_attribute_5_10']]
+2023-02-06 19:02:82 INFO  HomePage :82 - click on add to card button[[ChromeDriver: chrome on WINDOWS (9c464c45a28369fb2174739d3940858e)] -> xpath: //button[@id='add-to-cart-button-1']]
+2023-02-06 19:02:774 INFO  HomePage :86 - Getting link from [[ChromeDriver: chrome on WINDOWS (9c464c45a28369fb2174739d3940858e)] -> xpath: //div[@class='bar-notification success']/p]
+2023-02-06 19:02:666 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 19:02:675 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 19:02:114 INFO  HomePage :38 - Click on computer tab[[ChromeDriver: chrome on WINDOWS (33c054eea037a69ced27084bb5b9e842)] -> xpath: //ul[@class='top-menu notmobile']/li//a[@href='/computers']]
+2023-02-06 19:02:27 INFO  HomePage :48 - Click on desktop linkProxy element for: DefaultElementLocator 'By.xpath: //h2[@class='title']//a[@href='/desktops']'
+2023-02-06 19:02:930 INFO  HomePage :51 - Click on build your computer linkProxy element for: DefaultElementLocator 'By.xpath: //div[@class='products-container']/div[2]/div/div/div[1]/div/div[2]/h2/a'
+2023-02-06 19:02:13 INFO  HomePage :56 - Click on the processor from drop down[[ChromeDriver: chrome on WINDOWS (33c054eea037a69ced27084bb5b9e842)] -> xpath: //select[@id='product_attribute_1']]
+2023-02-06 19:02:111 INFO  HomePage :61 - Select ram from drop down[[ChromeDriver: chrome on WINDOWS (33c054eea037a69ced27084bb5b9e842)] -> xpath: //select[@id='product_attribute_2']]
+2023-02-06 19:02:180 INFO  HomePage :66 - click on HDD radio button[[ChromeDriver: chrome on WINDOWS (33c054eea037a69ced27084bb5b9e842)] -> xpath: //input[@id='product_attribute_3_6']]
+2023-02-06 19:02:241 INFO  HomePage :71 - Click on OS software which you would like [[ChromeDriver: chrome on WINDOWS (33c054eea037a69ced27084bb5b9e842)] -> xpath: //input[@id='product_attribute_4_8']]
+2023-02-06 19:02:300 INFO  HomePage :76 - tick on software check box on which you would like [[ChromeDriver: chrome on WINDOWS (33c054eea037a69ced27084bb5b9e842)] -> xpath: //input[@id='product_attribute_5_10']]
+2023-02-06 19:02:363 INFO  HomePage :82 - click on add to card button[[ChromeDriver: chrome on WINDOWS (33c054eea037a69ced27084bb5b9e842)] -> xpath: //button[@id='add-to-cart-button-1']]
+2023-02-06 19:02:497 INFO  HomePage :86 - Getting link from [[ChromeDriver: chrome on WINDOWS (33c054eea037a69ced27084bb5b9e842)] -> xpath: //div[@class='bar-notification success']/p]
+2023-02-06 19:02:67 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 19:02:67 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 19:02:868 INFO  HomePage :38 - Click on computer tab[[ChromeDriver: chrome on WINDOWS (a9a0aa0f0141150e897e1cdce60156b4)] -> xpath: //ul[@class='top-menu notmobile']/li//a[@href='/computers']]
+2023-02-06 19:02:588 INFO  HomePage :48 - Click on desktop linkProxy element for: DefaultElementLocator 'By.xpath: //h2[@class='title']//a[@href='/desktops']'
+2023-02-06 19:02:691 INFO  HomePage :51 - Click on build your computer linkProxy element for: DefaultElementLocator 'By.xpath: //div[@class='products-container']/div[2]/div/div/div[1]/div/div[2]/h2/a'
+2023-02-06 19:02:758 INFO  HomePage :56 - Click on the processor from drop down[[ChromeDriver: chrome on WINDOWS (a9a0aa0f0141150e897e1cdce60156b4)] -> xpath: //select[@id='product_attribute_1']]
+2023-02-06 19:02:853 INFO  HomePage :61 - Select ram from drop down[[ChromeDriver: chrome on WINDOWS (a9a0aa0f0141150e897e1cdce60156b4)] -> xpath: //select[@id='product_attribute_2']]
+2023-02-06 19:02:922 INFO  HomePage :66 - click on HDD radio button[[ChromeDriver: chrome on WINDOWS (a9a0aa0f0141150e897e1cdce60156b4)] -> xpath: //input[@id='product_attribute_3_6']]
+2023-02-06 19:02:983 INFO  HomePage :71 - Click on OS software which you would like [[ChromeDriver: chrome on WINDOWS (a9a0aa0f0141150e897e1cdce60156b4)] -> xpath: //input[@id='product_attribute_4_8']]
+2023-02-06 19:02:41 INFO  HomePage :76 - tick on software check box on which you would like [[ChromeDriver: chrome on WINDOWS (a9a0aa0f0141150e897e1cdce60156b4)] -> xpath: //input[@id='product_attribute_5_10']]
+2023-02-06 19:02:101 INFO  HomePage :82 - click on add to card button[[ChromeDriver: chrome on WINDOWS (a9a0aa0f0141150e897e1cdce60156b4)] -> xpath: //button[@id='add-to-cart-button-1']]
+2023-02-06 19:02:487 INFO  HomePage :86 - Getting link from [[ChromeDriver: chrome on WINDOWS (a9a0aa0f0141150e897e1cdce60156b4)] -> xpath: //div[@class='bar-notification success']/p]
+2023-02-06 19:02:319 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 19:02:332 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 19:02:749 INFO  HomePage :38 - Click on computer tab[[ChromeDriver: chrome on WINDOWS (f14867eb0eb99a6008843f089f59cc27)] -> xpath: //ul[@class='top-menu notmobile']/li//a[@href='/computers']]
+2023-02-06 19:02:762 INFO  HomePage :42 - getting text from[[ChromeDriver: chrome on WINDOWS (f14867eb0eb99a6008843f089f59cc27)] -> xpath: //div[@class='center-2']//h1[contains(text(),'Computers')]]
+2023-02-06 19:02:507 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-06 19:02:507 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-06 19:02:218 INFO  HomePage :38 - Click on computer tab[[ChromeDriver: chrome on WINDOWS (ae430702a0e223bf236da2469402c054)] -> xpath: //ul[@class='top-menu notmobile']/li//a[@href='/computers']]
+2023-02-06 19:02:717 INFO  HomePage :48 - Click on desktop linkProxy element for: DefaultElementLocator 'By.xpath: //h2[@class='title']//a[@href='/desktops']'
+2023-02-06 19:02:738 INFO  HomePage :52 - getting text from [[ChromeDriver: chrome on WINDOWS (ae430702a0e223bf236da2469402c054)] -> xpath: //div[@class='center-2']//h1[contains(text(),'Desktops')]]
+2023-02-07 23:02:192 INFO  Utils :112 - [TestNG] Running:
+  C:\Users\kuldi\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+2023-02-07 23:02:333 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-07 23:02:379 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-08 21:02:332 INFO  Utils :112 - [TestNG] Running:
+  C:\Users\kuldi\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+2023-02-08 21:02:562 INFO  WebDriverManager :1122 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-08 21:02:594 INFO  WebDriverManager :1177 - Exporting webdriver.chrome.driver as C:\Users\kuldi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-08 21:02:467 INFO  HomePage :75 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (9a8357591e59a8c7120d6b03e8c39ef1)] -> link text: Log in]
+2023-02-08 21:02:954 INFO  HomePage :143 - getting text from : Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Log out')]'

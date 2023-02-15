@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Nopcommerce"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="154.642">
+  <properties />
+  
+  
+            <testcase name="doLogin" time="43.388" classname="com.nopcommerceweek13.testsuite.ComputerPageTest" />
+                <testcase name="doLogin" time="44.428" classname="com.nopcommerceweek13.testsuite.ComputerPageTest" />
+                <testcase name="doLogin" time="44.511" classname="com.nopcommerceweek13.testsuite.ComputerPageTest" />
+                <testcase name="verifyUserShouldNavigateToDesktopsPageSuccessfully" time="21.184" classname="com.nopcommerceweek13.testsuite.ComputerPageTest" />
+                <testcase name="verifyUserShouldNavigateToComputerPageSuccessfully" time="1.131" classname="com.nopcommerceweek13.testsuite.ComputerPageTest" />
+      
+</testsuite>
